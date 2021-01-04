@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KeyboardInput
+comment1.params=
+comment1.target=KeyboardInput()
+comment2.params=
+comment2.target=void\ poll()
+comment3.params=keyCode
+comment3.target=boolean\ keyDown(int)
+comment4.params=keyCode
+comment4.target=boolean\ keyDownOnce(int)
+comment5.params=e
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=8
